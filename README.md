@@ -61,7 +61,7 @@ Oi! Sou João Pedro, ou Noltib (sla kkkj). Estudo no IFRN e gosto programação.
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="170" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=noltib&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br&icon_color=b176f5&bg_color=17131c&rank_icon=github&ring_color=b176f5&hide=prs,contribs" 
   />
@@ -69,7 +69,7 @@ Oi! Sou João Pedro, ou Noltib (sla kkkj). Estudo no IFRN e gosto programação.
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="170" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=noltib&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9&bg_color=17131c" 
   />
 
