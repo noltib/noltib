@@ -51,6 +51,15 @@ Oi! Sou João Pedro, ou Noltib (sla kkkj). Estudo no IFRN e gosto programação.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" 
+/>
+          
 <br/>
 
 ---
