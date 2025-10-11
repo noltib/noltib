@@ -1,10 +1,13 @@
 # noltib
 
+ <img src="https://media.tenor.com/-E2dqWbhxgoAAAAi/cat-ruffles.gif" alt="Cat Ruffles GIF" width="240px" align="right">
+ 
 **`Estudante de informática para internet`**
 
-Oi! Sou João Pedro, ou Noltib (sla kkkj). Estudo no IFRN e gosto programação. Gosto de explorar novas tecnologias, encarar desafios de código e aprender sempre algo novo no caminho.
-
----
+<p width="500px">Oi! Sou <strong>João Pedro</strong>, ou <strong>Noltib</strong> (sla kkkj).<br>
+Estudo no <strong>IFRN</strong> e gosto de <strong>programação</strong>.<br>
+Gosto de explorar novas tecnologias, encarar desafios de código<br>
+e aprender sempre algo novo no caminho.</p>
 
 ### Linguagens e Tecnologias
 
@@ -72,7 +75,7 @@ Oi! Sou João Pedro, ou Noltib (sla kkkj). Estudo no IFRN e gosto programação.
     alt="GitHub Stats" 
     height="150" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=noltib&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br&icon_color=b176f5&bg_color=17131c&rank_icon=github&ring_color=b176f5&hide=prs,contribs" 
+    src="https://github-readme-stats.vercel.app/api?username=noltib&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br&icon_color=b176f5&bg_color=17131c&ring_color=b176f5" 
   />
 
 <img 
