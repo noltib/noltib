@@ -1,6 +1,6 @@
 # noltib
 
- <img src="https://media.tenor.com/-E2dqWbhxgoAAAAi/cat-ruffles.gif" alt="Cat Ruffles GIF" width="220px" align="right">
+ <img src="https://i.pinimg.com/originals/30/c2/10/30c210344bbbcde4d5542c02a0cb908b.gif" alt="Cat maxwell" width="350px" align="right">
  
 **`Estudante de informática para internet`**
 
