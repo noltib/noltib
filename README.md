@@ -37,6 +37,14 @@ e aprender sempre algo novo no caminho.</p>
 />
 <img 
     align="left" 
+    alt="Bootstrap" 
+    title="Bootstrap"
+    width="35px" 
+    style="padding-right: 15px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+/>
+<img 
+    align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="35px" 
