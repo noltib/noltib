@@ -82,6 +82,18 @@ e aprender sempre algo novo no caminho.</p>
 <br/>
 
 ---
+### Atualmente aprendendo
+<img 
+    align="left" 
+    alt="vue" 
+    title="vue"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"
+/>
+<br/>
+
+---
 
 ### 📊 Estatísticas
 
