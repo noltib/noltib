@@ -32,7 +32,7 @@ Desenvolvedor Fullstack e Modelador 3D
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="150" 
+    height="140" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=noltib&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br&icon_color=b176f5&bg_color=17131c&ring_color=b176f5" 
   />
