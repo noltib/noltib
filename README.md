@@ -21,26 +21,5 @@ Desenvolvedor Fullstack e Modelador 3D
 ### Atualmente aprendendo
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=vue,django,threejs,linux" />
-</p>
-
----
-
-### 📊 Estatísticas
-
-<p>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150"
-      src="https://github-readme-stats.vercel.app/api?username=noltib&show_icons=true&include_all_commits=true&locale=pt-br&icon_color=b176f5&bg_color=17131c&ring_color=b176f5"
-/>
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=noltib&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9&bg_color=17131c" 
-  />
-
+<img src="https://skillicons.dev/icons?i=vue,django,threejs,flask,docker,linux" />
 </p>
